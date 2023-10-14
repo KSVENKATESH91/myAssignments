@@ -1,1 +1,1 @@
-# myAssignments
+# seleniumjava_assignments
